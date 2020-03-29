@@ -57,7 +57,7 @@ To try our code, you can use: run_demo.py
 
 # Example Results
 
-If you set the number of samples (i.e., graphs) from class 1 to 20, from class 2 to 20, and the size of each graph to 50 (nodes), you will get the following outputs when running the demo:
+If you set the number of samples (i.e., graphs) from class 1 to 20, from class 2 to 20, and the size of each graph to 50 (nodes), you will get the following outputs when running the demo with default parameter setting:
 
 ![NAGFS pipeline](http://basira-lab.com/nagfs_py_results/) 
 
