@@ -24,6 +24,8 @@ SIMLR code from https://github.com/bowang87/SIMLR_PY
 
 SNF code from https://github.com/rmarkello/snfpy
 
+Circular graph from https://github.com/ericmjl/nxviz
+
 # Demo
 
 NAFGS is coded in Python 3. GPU is not needed to run the code.
